@@ -1,0 +1,25 @@
+.role {
+	width: 8rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.roleSpan {
+	width: fit-content;
+	font-size: 0.7rem;
+	padding: 0.2rem 1rem;
+	border-radius: 0.5rem;
+	border: none;
+	outline: none;
+	color: white;
+	text-transform: uppercase;
+}
+.teacher {
+	background-color: brown;
+}
+.student {
+	background-color: blue;
+}
+.other {
+	background-color: chocolate;
+}

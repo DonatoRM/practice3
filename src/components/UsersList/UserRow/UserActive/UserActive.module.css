@@ -1,0 +1,12 @@
+.active {
+	width: 6rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.useActive {
+	color: green;
+}
+.useInactive {
+	color: red;
+}
