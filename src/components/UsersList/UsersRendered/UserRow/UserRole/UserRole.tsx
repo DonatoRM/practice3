@@ -1,5 +1,5 @@
-import { ROLE_TYPE } from '../../../../lib/constants/RoleType';
 import style from './UserRole.module.css';
+import { ROLE_TYPE } from '../../../../../lib/constants/RoleType';
 
 const UserRole: React.FC<UserRoleProps> = ({ role }) => {
 	const [userRole, roleClass] = ROLE_CLASS[role] || ROLE_CLASS.other;

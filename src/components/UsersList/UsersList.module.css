@@ -1,0 +1,9 @@
+.wrapper {
+	width: 80%;
+	min-width: 500px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+.title {
+	text-align: center;
+}
